@@ -17,7 +17,7 @@ A web application for tracking emotional and cognitive patterns through daily ch
 - **Start Mode**: Actionable next steps with built-in timers and strategies
 
 ### Key Capabilities
-- **Baseline Establishment**: 5-day onboarding to create personalized reference points
+- **Baseline Establishment**: 5-day onboarding to create personalized reference points 
 - **Real-time Analysis**: Instant feedback on current mental state
 - **Historical Trends**: Visual tracking of patterns over time
 - **Safety-First Design**: Non-diagnostic tool with clear disclaimers
