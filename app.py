@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv() 
 
 from signals import compute_signals, compare_to_baseline, compute_baseline, score_caution
 from signals import compute_focus_signals, compute_focus_baseline, compare_focus_to_baseline
