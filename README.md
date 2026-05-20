@@ -10,7 +10,7 @@ A web application for tracking emotional and cognitive patterns through daily ch
 - **Risk Assessment**: Automatic caution level detection (Low/Moderate/Watch) based on baseline comparisons
 - **Historical Insights**: Track changes over time with detailed analysis
 
-### Focus Tracking
+### Focus Tracking 
 - **Multi-step Analysis**: 3-question focus assessments to understand current mental state
 - **Focus Mode Detection**: Identifies Flow State, Check-in, or Support needed
 - **Signal Breakdown**: Detailed metrics on task switching, avoidance, urgency, and emotional spikes
